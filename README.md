@@ -1,17 +1,17 @@
 # Random-Number-Guessing-Game
-# Features
+Features
 Random number generation
 User input handling
 Attempt limit with feedback (Too high / Too low)
 Win/Lose message
 Option to play again
 
-# Technologies Used
+Technologies Used
 Programming Language: Java 
 IDE: Notepad / Eclipse / VS Code
 Java Console for input/output
 
-# File Structure
+File Structure
 NumberGuessingGame/
 │
 ├── NumberGuessingGame.java   # Main game logic
